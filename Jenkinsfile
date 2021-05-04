@@ -17,7 +17,7 @@ pipeline {
         }
         stage ('Initialize') {
             steps {
-                /* groovylint-disable-next-line GStringExpressionWithinString */
+                /* groovylint-disable-next-line GStringExpressionWithinString  */
                 sh '''
                     echo "PATH = ${PATH}"
                     echo "M2_HOME = ${M2_HOME}"
