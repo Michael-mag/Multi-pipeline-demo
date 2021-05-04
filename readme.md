@@ -1,6 +1,6 @@
-### About this repository
+## About this repository
 
-# 1. Configurations :
+### 1. Configurations :
    - This folder contains some basic and repetitive configurations across all projects and branches 
     
    **[create_maven_project.py](configurations/create_maven_project.py)** 
